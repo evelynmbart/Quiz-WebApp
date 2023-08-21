@@ -1,5 +1,5 @@
 import React from "react";
 
 export function Quiz() {
-  return <div></div>;
+  return <div>Quiz</div>;
 }
